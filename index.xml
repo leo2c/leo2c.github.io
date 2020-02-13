@@ -7,8 +7,11 @@
                 <title>About</title>
                 <link>/about/</link>
                 <pubDate>Thu, 13 Feb 2020 15:22:52 +0800</pubDate><guid>/about/</guid>
-                <description>&lt;p&gt;• 记录Java学习中的笔记
-• Email:leogo2c@gmail.com&lt;/p&gt;
+                <description>&lt;ul&gt;
+&lt;li&gt;分享Java学习中的体会&lt;/li&gt;
+&lt;li&gt;记录工作、学习中遇到的坑&lt;/li&gt;
+&lt;li&gt;Email:leogo2c@gmail.com&lt;/li&gt;
+&lt;/ul&gt;
 </description>
             </item></channel>
 </rss>
