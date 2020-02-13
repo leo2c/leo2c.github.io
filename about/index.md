@@ -1,4 +1,5 @@
-# 开博大吉
+# About
 
-# 用于分享Java学习中的知识
+• 记录Java学习中的笔记
+• Email:leogo2c@gmail.com
 

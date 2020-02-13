@@ -4,10 +4,11 @@
         <link>/</link>
         <description>Leo2c Blog | Leo2c Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 13 Feb 2020 15:22:52 +0800</lastBuildDate><atom:link href="/" rel="self" type="application/rss+xml" /><item>
-                <title>开博大吉</title>
+                <title>About</title>
                 <link>/about/</link>
                 <pubDate>Thu, 13 Feb 2020 15:22:52 +0800</pubDate><guid>/about/</guid>
-                <description>&lt;h1 id=&#34;用于分享java学习中的知识&#34;&gt;用于分享Java学习中的知识&lt;/h1&gt;
+                <description>&lt;p&gt;• 记录Java学习中的笔记
+• Email:leogo2c@gmail.com&lt;/p&gt;
 </description>
             </item></channel>
 </rss>

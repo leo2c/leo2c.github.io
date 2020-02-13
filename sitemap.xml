@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>/</loc><lastmod>2020-02-13T15:22:52+08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/about/</loc><lastmod>2020-02-13T15:22:52+08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/</loc><lastmod>2020-02-13T15:22:52+08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
