@@ -2,8 +2,13 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>/categories/</loc><lastmod>2020-02-13T15:22:52+08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/hugo/</loc><lastmod>2020-02-13T15:22:52+08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/</loc><lastmod>2020-02-13T15:22:52+08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/posts/</loc><lastmod>2020-02-13T15:22:52+08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/2020/02/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</loc><lastmod>2020-02-13T15:22:52+08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>/tags/</loc><lastmod>2020-02-13T15:22:52+08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/template/</loc><lastmod>2020-02-13T15:22:52+08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/categories/test/</loc><lastmod>2020-02-13T15:22:52+08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/test/</loc><lastmod>2020-02-13T15:22:52+08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/about/</loc><lastmod>2020-02-13T15:22:52+08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/template/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</loc><lastmod>2020-02-13T15:22:52+08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/categories/%E6%9D%82%E6%8A%80%E6%B5%85%E5%B0%9D/</loc><lastmod>2020-02-13T15:22:52+08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
